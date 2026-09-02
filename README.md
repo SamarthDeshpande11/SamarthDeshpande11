@@ -1,6 +1,8 @@
-### Hi, I'm Samarth 👋
+<div align="center">
 
-FullStack Developer & Agentic AI | Exploring DevOps
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Samarth+%F0%9F%91%8B;FullStack+Developer;Agentic+AI+%7C+LLM+Builder;Exploring+DevOps)
+
+</div>
 
 📍 Bangalore, India  
 📫 sam.deshpande1135@gmail.com  
@@ -25,6 +27,12 @@ FullStack Developer & Agentic AI | Exploring DevOps
 **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**AI / Agentic Stack**  
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -51,4 +59,15 @@ FullStack Developer & Agentic AI | Exploring DevOps
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamarthDeshpande11&show_icons=true&theme=dark)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamarthDeshpande11&show_icons=true&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SamarthDeshpande11&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SamarthDeshpande11&theme=radical&no-frame=true&row=1)
+
+</div>
