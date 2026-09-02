@@ -71,3 +71,13 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SamarthDeshpande11&theme=radical&no-frame=true&row=1)
 
 </div>
+### 🕹️ Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamarthDeshpande11/SamarthDeshpande11/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SamarthDeshpande11/SamarthDeshpande11/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
